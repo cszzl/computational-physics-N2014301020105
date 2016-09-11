@@ -1,5 +1,5 @@
 #Homework list
-* - [[Exercise_01]:()]
+* - [[Exercise_01]:()
 * [Exercise_02:]()
 * [Exercise_03:]()
 * [Exercise_04:]()
@@ -12,4 +12,4 @@
 * [Exercise_11:]()
 * [Exercise_12:]()
 * [Exercise_13:]()
-* [Exercise_14:]()
+* [Exercise_14:]()]
