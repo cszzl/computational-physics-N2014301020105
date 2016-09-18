@@ -1,6 +1,6 @@
 #Homework list
 - [x] [Exercise_01:]()
-- [x] [Exercise_02:](https://www.zybuluo.com/cszzlhh/note/505276)
+- [x] [Exercise_02:](https://www.zybuluo.com/cszzlhh/note/505447)
 - [ ] [Exercise_03:]()
 - [ ] [Exercise_04:]()
 - [ ] [Exercise_05:]()
