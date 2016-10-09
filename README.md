@@ -2,7 +2,7 @@
 - [x] [Exercise_01:]()
 - [x] [Exercise_02:](https://www.zybuluo.com/cszzlhh/note/505447)
 - [x] [Exercise_03:All Levels](https://www.zybuluo.com/cszzlhh/note/513193)
-- [ ] [Exercise_04:]()
+- [x] [Exercise_04:A decay problem with two types of nuclei](https://www.zybuluo.com/cszzlhh/note/525942)
 - [ ] [Exercise_05:]()
 - [ ] [Exercise_06:]()
 - [ ] [Exercise_07:]()
