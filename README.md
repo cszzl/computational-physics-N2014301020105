@@ -3,7 +3,7 @@
 - [x] [Exercise_02:](https://www.zybuluo.com/cszzlhh/note/505447)
 - [x] [Exercise_03:All Levels](https://www.zybuluo.com/cszzlhh/note/513193)
 - [x] [Exercise_04:A decay problem with two types of nuclei](https://www.zybuluo.com/cszzlhh/note/525942)
-- [ ] [Exercise_05:]()
+- [x] [Exercise_05:Exercise2.9.Cannon shell with air risistance and density correction](https://www.zybuluo.com/cszzlhh/note/534216)
 - [ ] [Exercise_06:]()
 - [ ] [Exercise_07:]()
 - [ ] [Exercise_08:]()
