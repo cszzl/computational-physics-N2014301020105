@@ -6,7 +6,7 @@
 - [x] [Exercise_05:Exercise2.9.Cannon shell with air risistance and density correction](https://www.zybuluo.com/cszzlhh/note/534216)
 - [x] [Exercise_06:Level_1.Exercise2.10.minimum firing velocity required to hit the target(with heat wind)](https://www.zybuluo.com/cszzlhh/note/542122)
 - [x] [Exercise_07:Oscillatory Motion and Chaos-Exercise3.12、3.13、3.14](https://www.zybuluo.com/cszzlhh/note/550408)
-- [ ] [Exercise_08:]()
+- [x] [Exercise_08:Exercise3.21.Bifurcation diagrams with other values](https://www.zybuluo.com/cszzlhh/note/565983)
 - [ ] [Exercise_09:]()
 - [ ] [Exercise_10:]()
 - [ ] [Exercise_11:]()
