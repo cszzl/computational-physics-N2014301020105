@@ -7,7 +7,7 @@
 - [x] [Exercise_06:Level_1.Exercise2.10.minimum firing velocity required to hit the target(with heat wind)](https://www.zybuluo.com/cszzlhh/note/542122)
 - [x] [Exercise_07:Oscillatory Motion and Chaos-Exercise3.12、3.13、3.14](https://www.zybuluo.com/cszzlhh/note/550408)
 - [x] [Exercise_08:Exercise3.21.Bifurcation diagrams with other values](https://www.zybuluo.com/cszzlhh/note/565983)
-- [ ] [Exercise_09:]()
+- [x] [Exercise_09:Billiard problem_3.30、3.31](https://www.zybuluo.com/cszzlhh/note/573749)
 - [ ] [Exercise_10:]()
 - [ ] [Exercise_11:]()
 - [ ] [Exercise_12:]()
