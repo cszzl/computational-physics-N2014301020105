@@ -9,7 +9,7 @@
 - [x] [Exercise_08:Exercise3.21.Bifurcation diagrams with other values](https://www.zybuluo.com/cszzlhh/note/565983)
 - [x] [Exercise_09:Billiard problem_3.30、3.31](https://www.zybuluo.com/cszzlhh/note/573749)
 - [x] [Exercise_10:The solar system_4.10、4.11](https://www.zybuluo.com/cszzlhh/note/581834)
-- [ ] [Exercise_11:]()
+- [x] [Exercise_11:Tumbling of Hyperion_4.19、4.20](https://www.zybuluo.com/cszzlhh/note/589858)
 - [ ] [Exercise_12:]()
 - [ ] [Exercise_13:]()
 - [ ] [Exercise_14:]()
