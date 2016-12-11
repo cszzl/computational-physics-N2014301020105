@@ -10,6 +10,6 @@
 - [x] [Exercise_09:Billiard problem_3.30、3.31](https://www.zybuluo.com/cszzlhh/note/573749)
 - [x] [Exercise_10:The solar system_4.10、4.11](https://www.zybuluo.com/cszzlhh/note/581834)
 - [x] [Exercise_11:Tumbling of Hyperion_4.19、4.20](https://www.zybuluo.com/cszzlhh/note/589858)
-- [ ] [Exercise_12:]()
+- [x] [Exercise_12:capacitor problem_5.7](https://www.zybuluo.com/cszzlhh/note/597381)
 - [ ] [Exercise_13:]()
 - [ ] [Exercise_14:]()
