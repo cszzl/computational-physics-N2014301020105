@@ -11,5 +11,5 @@
 - [x] [Exercise_10:The solar system_4.10、4.11](https://www.zybuluo.com/cszzlhh/note/581834)
 - [x] [Exercise_11:Tumbling of Hyperion_4.19、4.20](https://www.zybuluo.com/cszzlhh/note/589858)
 - [x] [Exercise_12:capacitor problem_5.7](https://www.zybuluo.com/cszzlhh/note/597381)
-- [ ] [Exercise_13:]()
-- [ ] [Exercise_14:]()
+- [x] [Exercise_13:Waves problem_6.13](https://www.zybuluo.com/cszzlhh/note/604500)
+- [ ] [The final:]()
